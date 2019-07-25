@@ -14,4 +14,34 @@ hoahdslaDSKL
 jhaDJHahdhLADLHadlH
 jhdskjhsldflkasjdlkfjlkajlkf
 jnlnlnlnlnlnlnln
+<<<<<<< HEAD
 jhkhkjlkaskd
+=======
+jhkhkjlkaskd
+jhdhakjhsdkhajkshdjk
+
+jjgkasfajksfahslf
+jbskabxakjsjljasljlas
+dsdfsdf
+sdf
+df
+kshkhashdjhasjkldl
+khbsakfjbaksfhjk
+sdfs
+dgs
+d
+fhd
+hd
+hdhdjfgjfdjff
+
+gfhjsfjfgjf
+jjdfjdfjsftgjsf
+fjsjjsj
+sjqwertyuiopasdfghjklzxcvbnm,
+zxcvbnm,.asdghjkl;qwertyuiop
+qwtyuiop[sdfghjkl;asdfghjkl;'
+zxcvbnm,./asdfghjkl;'
+dfbsdfhd
+dsh
+sdhh
+>>>>>>> c73db8a65378aafff023e0c84b2b81119c968f23
